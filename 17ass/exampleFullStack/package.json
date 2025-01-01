@@ -16,7 +16,7 @@
   "dependencies": {
     "@lottiefiles/lottie-interactivity": "^1.6.2",
     "contentful": "^10.2.1",
-    "contentful-management": "^10.35.4",
+    "contentful-management": "^11.40.3",
     "dotenv": "^16.0.3"
   }
 }
